@@ -74,3 +74,5 @@ The Naive Bayes algorithm trained on the PCA data produced the highest accuracy 
 - Naive Bayes trained on two attributes: 93% accuracy
 - KNN trained on PCA data: 93% accuracy
 - Naive Bayes trained on PCA data: 94% accuracy
+
+### View full project [here](https://github.com/catherinealeal/TumorMalignancy/blob/8578f073d02fc15dc9e63a82335adc9772e31bbc/TumorMalignancyPrediction.ipynb)
